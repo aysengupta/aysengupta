@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Ayan Sengupta!
+I am currently working as a software developer and learning about bare metal programming
